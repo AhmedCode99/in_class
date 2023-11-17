@@ -1,0 +1,7 @@
+keras
+# metakernel
+nbval
+jupyterlab
+ipympl
+pycodestyle_magic
+python-ffmpeg
